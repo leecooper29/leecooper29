@@ -24,13 +24,6 @@ Check out my [GitHub Projects](https://github.com/leecooper29?tab=repositories)!
 <a href="https://linkedin.com/in/leecooper29">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://instagram.com/leeskatezz">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/c/cooper">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white"/>
-</a>
-
 </p>
 
 
