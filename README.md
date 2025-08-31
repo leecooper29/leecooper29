@@ -11,13 +11,11 @@ A passionate software engineer from connecticut</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/leecooper29?tab=repositories](https://github.com/leecooper29?tab=repositories)
 
-- 💬 Ask me about **react + javascript**
-
 - 📫 How to reach me **leecooper6329@gmail.com**
 
 - ⚡ Fun fact **I like skateboarding**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left">
   <!-- Frontend -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
