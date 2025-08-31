@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lee Cooper</h1>
-<h3 align="center">A passionate software engineer from connecticut</h3>
+A passionate software engineer from connecticut</h3>
 
 - 🔭 I’m currently working on **website_portfolio**
 
