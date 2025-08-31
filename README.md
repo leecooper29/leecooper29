@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lee Cooper</h1>
----
 
 # 💫 About Me:
 I am a Computer Science student at the University of Connecticut (UConn), passionate about building software, solving problems, and exploring new technologies.  
