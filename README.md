@@ -24,13 +24,25 @@ Check out my [GitHub Projects](https://github.com/leecooper29?tab=repositories)!
 ⚡ Fun fact: I like skateboarding 🛹  
 
 ---
-
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leecooper29)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/leecooper)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/leeskatezz)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/c/cooper)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://www.leetcode.com/leecooper)  
+<p>
+<a href="https://linkedin.com/in/leecooper29">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/leecooper">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white"/>
+</a>
+<a href="https://instagram.com/leeskatezz">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/c/cooper">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white"/>
+</a>
+<a href="https://www.leetcode.com/leecooper">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white"/>
+</a>
+</p>
+
 
 ---
 
