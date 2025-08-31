@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Lee Cooper</h1>
+<h1 align="center">Hi 👋 I'm Lee Cooper</h1>
 
 # 💫 About Me:
-I am a Computer Science student at the University of Connecticut (UConn), passionate about building software, solving problems, and exploring new technologies.  
+I am a third year Computer Science student at the University of Connecticut (UConn), passionate about building software, solving problems, and exploring new technologies.  
 
 Outside of coding, I enjoy skateboarding and keeping up with the latest tech trends.  
 
 ## 🚀 What I'm Up To
 - 🔭 Currently working on: **website_portfolio**  
 - 🌱 Learning: **Next.js, Python, and Java**  
-- 👯 Looking to collaborate on: **ecommerce_website**  
-- 🤝 Looking for help with: **web_scraper**  
 
 Check out my [GitHub Projects](https://github.com/leecooper29?tab=repositories)!  
 
@@ -26,18 +24,13 @@ Check out my [GitHub Projects](https://github.com/leecooper29?tab=repositories)!
 <a href="https://linkedin.com/in/leecooper29">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/leecooper">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white"/>
-</a>
 <a href="https://instagram.com/leeskatezz">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"/>
 </a>
 <a href="https://www.youtube.com/c/cooper">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white"/>
 </a>
-<a href="https://www.leetcode.com/leecooper">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white"/>
-</a>
+
 </p>
 
 
