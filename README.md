@@ -1,21 +1,26 @@
 <h1 align="center">Hi, I'm Lee Cooper</h1>
-A passionate software engineer from connecticut</h3>
+<h3 align="center">A passionate software engineer from Connecticut</h3>
 
-- 🔭 I’m currently working on **website_portfolio**
+---
 
-- 🌱 I’m currently learning **nextjs, python, and java**
+### 👨‍🎓 About Me  
+🎓 I’m a **Computer Science student at the University of Connecticut (UConn)** with a strong passion for building software and learning new technologies.  
+💡 I love solving problems, creating projects that make an impact, and continuously improving my skills.  
+🏀 Outside of coding, you’ll often find me skateboarding or exploring new tech trends.  
 
-- 👯 I’m looking to collaborate on **ecommerce_website**
+---
 
-- 🤝 I’m looking for help with **web_scraper**
+- 🔭 I’m currently working on **website_portfolio**  
+- 🌱 I’m currently learning **Next.js, Python, and Java**  
+- 👯 I’m looking to collaborate on **ecommerce_website**  
+- 🤝 I’m looking for help with **web_scraper**  
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/leecooper29?tab=repositories)  
+- 📫 How to reach me: **leecooper6329@gmail.com**  
+- ⚡ Fun fact: **I like skateboarding**  
 
-- 👨‍💻 All of my projects are available at [https://github.com/leecooper29?tab=repositories](https://github.com/leecooper29?tab=repositories)
+---
 
-- 📫 How to reach me **leecooper6329@gmail.com**
-
-- ⚡ Fun fact **I like skateboarding**
-
-<h3 align="left">Tech Stack:</h3>
+<h3 align="left">🛠 Tech Stack:</h3>
 <p align="left">
   <!-- Frontend -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -78,8 +83,9 @@ A passionate software engineer from connecticut</h3>
   </a>
 </p>
 
+---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/leecooper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leecooper" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leecooper29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leecooper29" height="30" width="40" /></a>
