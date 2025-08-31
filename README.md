@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lee Cooper</h1>
-<h3 align="center">A passionate Computer Science student at UConn</h3>
-
 ---
 
 # 💫 About Me:
