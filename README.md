@@ -18,7 +18,7 @@ Check out my [GitHub Projects](https://github.com/leecooper29?tab=repositories)!
 
 ## 🌐 Connect with me:
 <p>
-<a href="https://linkedin.com/in/leecooper29">
+<a href="https://www.linkedin.com/in/leandro-cooper-103075273/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
 </p>
@@ -54,8 +54,8 @@ Libraries & Frameworks:
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/> 
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
 </p>
 
 ---
