@@ -5,7 +5,7 @@ I am a third year Computer Science student at the University of Connecticut (UCo
 Outside of coding, I enjoy skateboarding and keeping up with the latest tech trends.  
 
 ## 🚀 What I'm Up To
-- 🔭 Currently working on: **Uconn_Marketplace**
+- 🔭 Currently working on: **Uconn_network**
 - 🌱 Learning: **Next.js, Python, and Java**  
 Check out my [GitHub Projects](https://github.com/leecooper29?tab=repositories)!  
 
