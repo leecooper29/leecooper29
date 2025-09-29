@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋 I'm Lee Cooper</h1>
 
 # 💫 About Me:
-I am a third year Computer Science student at the University of Connecticut (UConn), passionate about building software, solving problems, and exploring new technologies.  
-Outside of coding, I enjoy skateboarding and keeping up with the latest tech trends.  
+I am a third year Computer Science student at the University of Connecticut (UConn), passionate about building software, solving problems, and exploring new technologies. Outside of coding, I enjoy skateboarding and keeping up with the latest tech trends.  
 
 ## 🚀 What I'm Up To
 - 🔭 Currently working on: **Uconn_network**
